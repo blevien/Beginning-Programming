@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir test1 test2 test3
+touch test1/file1.txt test2/file2.txt test3/file3.txt
